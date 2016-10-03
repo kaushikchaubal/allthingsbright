@@ -1,6 +1,5 @@
 var gzippo = require('gzippo');
 var express = require('express');
-var mongoose = require('mongoose');
 
 // Start app as an express-app on a particular port
 var app = express();
